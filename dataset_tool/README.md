@@ -1,0 +1,3 @@
+process_no_face.py 得到异常人脸帧索引
+
+process_video_index.py 对得到的索引进行处理
